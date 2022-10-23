@@ -1,2 +1,2 @@
-# jijoderick.github.io
+# Jijo Derick Abraham
 The website of Jijo Derick Abraham
