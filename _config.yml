@@ -1,7 +1,7 @@
 theme: jekyll-theme-hacker
 title: Jijo Derick Abraham
-description: UQIDAR PhD Student
-show_downloads: false
+description: UQIDAR Ph.D. student in the field of computational cardiac biomechanics
+show_downloads: True
 google_analytics:
 #remote_theme: pages-themes/hacker@v0.2.0
 #plugins:
