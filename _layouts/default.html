@@ -1,5 +1,18 @@
 <!DOCTYPE html>
 <html lang="{{ site.lang | default: "en-US" }}">
+  <header>
+    <div class="container">
+      <a id="a-title" href="{{ '/' | relative_url }}">
+        <h1>{{ site.title | default: site.github.repository_name }}</h1>
+      </a>
+      <h2>{{ site.description | default: site.github.project_tagline }}</h2>
+      [ <a href="biosketch.html">Biosketch</a> | 
+       <a href="research.html">Research</a> |
+       <a href="publications.html">Publications</a> |
+       <a href="contact.html">contact</a> ]
+
+    </div>
+  </header>
 
   <footer>
   <div style="text-align:center; border-top: 1px dashed #b5e853; padding: 20px 0; margin: 0 0 0 0;">
