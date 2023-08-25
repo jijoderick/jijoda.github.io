@@ -25,7 +25,7 @@ Proceedings of the 23rd Australasian Fluid Mechanics Conference, University of S
 
 # 2021
 
-[On reducing lift and drag forces of a stationary circular cylinder using side-by-side pair of inward rotating cylinders] (https://iopscience.iop.org/article/10.1088/1757-899X/1146/1/012020/meta)
+[On reducing lift and drag forces of a stationary circular cylinder using side-by-side pair of inward rotating cylinders](https://iopscience.iop.org/article/10.1088/1757-899X/1146/1/012020/meta)
 
 US Pagar, JD Abraham, TB Gohil
 
