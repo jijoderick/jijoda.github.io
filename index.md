@@ -6,6 +6,6 @@ I am a joint PhD student between the university of queensland and the IIT Delhi.
 - [Research](research.md)
 - [Publications](publications.md)
 - [Contact](contact.md)
-- [Gallery](cv.md)
+- [Gallery](gallery.md)
 - [Extracuricular activities](extracuricular.md)
 
