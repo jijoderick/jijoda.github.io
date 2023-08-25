@@ -1,3 +1,4 @@
+## Academic project details
 # PhD research
     Computational model of ventricular mechanics for heart failure scenarios.
 
@@ -11,3 +12,9 @@
 
 # Bachelors thesis
     Numerical simulations of induction heating 
+
+## Numerical techniques 
+- Finite Element Method
+- Finite Volume Method
+- Lattice Boltzmann Method
+    
