@@ -1,7 +1,7 @@
 ### JIJO DERICK ABRAHAM
 
 I am a joint PhD student between the university of queensland and the IIT Delhi.
-![my_photo](images/Jijo_cropped.png){:height="50%" width="50%"}.  
+![my_photo](images/Jijo_cropped.png){:height="30%" width="30%"}.  
 
 # Educational background
 - (2020-2024) PhD : Mechanical Engineering, Univeristy of Queensland and IIT Delhi Academy of Research (UQIDAR)
