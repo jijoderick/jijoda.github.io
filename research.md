@@ -17,4 +17,20 @@
 - Finite Element Method
 - Finite Volume Method
 - Lattice Boltzmann Method
+  
+## Languages familiar
+- Python, C, FORTRAN, C++
     
+## Tools used
+# Opensource codes
+- OpenFOAM
+- FEniCS
+- svFSI
+- LIFE, LUMA (LBM- FEM coupled codes)
+- Paraview
+- salomi
+- 
+# Commericial software
+- ANSYS (Fluent, ICEM CFD, Design modular, Spaceclaim)
+- Comsol multiphysics
+- Solid works
