@@ -1,30 +1,36 @@
 <!DOCTYPE html>
 <html lang="{{ site.lang | default: "en-US" }}">
-  <header>
+  <body>
+    <header>
+      <div class="container">
+        <a id="a-title" href="{{ '/' | relative_url }}">
+          <h1>{{ site.title | default: site.github.repository_name }}</h1>
+        </a>
+        <h2>{{ site.description | default: site.github.project_tagline }}</h2>
+        [ <a href="biosketch.html">Biosketch</a> | 
+         <a href="research.html">Research</a> |
+         <a href="publications.html">Publications</a> |
+         <a href="contact.html">contact</a> ]
+
+      </div>
+    </header>
     <div class="container">
-      <a id="a-title" href="{{ '/' | relative_url }}">
-        <h1>{{ site.title | default: site.github.repository_name }}</h1>
-      </a>
-      <h2>{{ site.description | default: site.github.project_tagline }}</h2>
-      [ <a href="biosketch.html">Biosketch</a> | 
-       <a href="research.html">Research</a> |
-       <a href="publications.html">Publications</a> |
-       <a href="contact.html">contact</a> ]
-
+      <section id="main_content">
+        {{ content }}
+      </section>
     </div>
-  </header>
 
-  <footer>
-  <div style="text-align:center; border-top: 1px dashed #b5e853; padding: 20px 0; margin: 0 0 0 0;">
-  [
-  <a href="https://www.github.com/jijoderick">Github</a> |
-  <a href="https://twitter.com/jijoderick">Twitter</a> |
-  <a href="https://www.linkedin.com/in/jijo-derick-abraham-6914a7157/">LinkedIn</a> |
-  <a href="https://scholar.google.com/citations?user=RDj6OYEAAAAJ&hl=en">Google Scholar</a>
+    <footer>
+    <div style="text-align:center; border-top: 1px dashed #b5e853; padding: 20px 0; margin: 0 0 0 0;">
+    [
+    <a href="https://www.github.com/jijoderick">Github</a> |
+    <a href="https://twitter.com/jijoderick">Twitter</a> |
+    <a href="https://www.linkedin.com/in/jijo-derick-abraham-6914a7157/">LinkedIn</a> |
+    <a href="https://scholar.google.com/citations?user=RDj6OYEAAAAJ&hl=en">Google Scholar</a>
 
-  ]
-  </div>
-  </footer>
+    ]
+    </div>
+    </footer>
 
   </body>
 </html>
